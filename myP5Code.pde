@@ -11,8 +11,9 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
-
+  ellipse(185,190,255,200);
+ellipse (147,207,55,110)
+ellipse (244,150,55,110)
   
 
 }
