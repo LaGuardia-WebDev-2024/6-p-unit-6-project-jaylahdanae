@@ -1,6 +1,6 @@
 //🟢Setup Procedure - Runs Once to Set The Canvas
 void setup() {
-    size(400, 400); 
+    size(500, 500); 
     background(255,255,255,100);
 }
 
@@ -12,9 +12,10 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   ellipse(185,190,255,200);
-ellipse (147,207,55,110)
-ellipse (244,150,55,110)
-  
+fill(77,182,232);
+ellipse(80,220,140,70);
+ellipse(400,250,220,300);
+
 
 }
 
