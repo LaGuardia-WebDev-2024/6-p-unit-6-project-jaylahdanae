@@ -14,10 +14,13 @@ void draw(){
  
 noStroke();
 fill(50,205,50);
-ellipse(100,200,400);
-ellipse()
+ellipse(300,240,240, 255);
+fill(255,255,255);
+ellipse(200,43,35,23);
 
 
+
+}
 
 
 
