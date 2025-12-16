@@ -13,16 +13,13 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
  
 noStroke();
-fill(77,182,232); 
-ellipse(185,255,300,200);
-ellipse(90,149,70,200);
-ellipse(280,150,75,200);
-fill(255,192,203);
-ellipse(282,103,45,150)
-ellipse
+fill(50,205,50);
+ellipse(100,200,400);
+ellipse()
 
 
-}
+
+
 
 //🟡Extra FUN Features Ms. Hall Added
 //Proceed with Caution (and Curiosity!)
