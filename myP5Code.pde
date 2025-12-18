@@ -12,11 +12,31 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
  
-noStroke();
+
 fill(50,205,50);
-ellipse(300,240,240, 255);
+ellipse(250,300,300,280);
+
 fill(255,255,255);
-ellipse(200,43,35,23);
+ellipse(250,180,120,120);
+
+fill(0,128,128);
+ellipse(250,200,60,60);
+
+fill(40,80,160);
+ellipse(250,200,45,40);
+
+stroke(255,100,100);
+strokeWeight(4);
+line(190,350,310,350);
+
+fill(255,255,255);
+triangle(210,350,230,350,220,370);
+tringle(270,350,290,350,280,370);
+
+
+
+
+
 
 
 
